@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Sleep Outside | Cart</title>
+    <meta
+      name="description"
+      content="You need to sleep outside, and we provide eveything to make that as comfortable as possible. SleepOutside sells high quality tents, sleeping bags/pads, and more to make your outdoor sleep the best ever."
+    />
+
+    <!-- favicon -->
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+
+    <!-- css -->
+    <link rel="stylesheet" href="/css/style.css" />
+
+    <!-- scripts -->
+    <script src="/js/cart.js" type="module"></script>
+  </head>
+
+  <body>
+    <header class="divider" id="main-header"></header>
+
+    <main class="divider">
+      <section class="products">
+        <h2>My Cart</h2>
+
+        <ul class="product-list"></ul>
+      </section>
+      <div class="cart-footer">
+        <!--hide this section-->
+        <p id="total-in-cart"></p>
+        <button onclick="window.location.href='/checkout/'">
+          Proceed to Checkout
+        </button>
+      </div>
+    </main>
+
+    <footer id="main-footer"></footer>
+  </body>
+</html>
