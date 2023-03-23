@@ -20,7 +20,7 @@ function addItem(index) {
 (async function () {
   try
   {
-    const response = await fetch('/json/products.json');
+    const response = await fetch('./json/products.json');
     const data = await response.json();
     // Filter products by ID
     const product1 = data.find(product => product.id === 1004);
