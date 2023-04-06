@@ -1,0 +1,244 @@
+[
+    {
+        "id": 1004,
+        "type": "module",
+        "brand": "glossier",
+        "name": "Stretch Concealer",
+        "price": "22.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://static-assets.glossier.com/production/spree/images/attachments/000/001/631/portrait_normal/SC_Carousel_1_copy_2.jpg?1506948615",
+        "product_link": "https://www.glossier.com/products/stretch-concealer",
+        "website_link": "https://www.glossier.com",
+        "description": "A traditional concealer sets to a stiff, flat, dry finish—a dead giveaway that you’re wearing it. Ours is a new type of concealer with elastic micro waxes that move with your face instead of caking on top of it, and nourishing oils that give a dewy, glowing finish. The buildable formula covers everything from dark circles to redness and blemishes. In five shades painstakingly developed to enhance, brighten, and—most importantly—completely disappear into the widest range of skin tones.",
+        "rating": null,
+        "category": "concealer",
+        "product_type": "foundation",
+        "tag_list": [],
+        "created_at": "2017-12-27T03:11:01.369Z",
+        "updated_at": "2017-12-27T03:12:42.235Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1004.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/004/original/open-uri20171227-4-1wp63cr?1514344255",
+        "product_colors": [
+            {
+                "hex_value": "#96644A",
+                "colour_name": "Deep"
+            },
+            {
+                "hex_value": "#4F3425",
+                "colour_name": "Rich"
+            },
+            {
+                "hex_value": "#BC8E5A",
+                "colour_name": "Dark"
+            },
+            {
+                "hex_value": "#E5BE93",
+                "colour_name": "Medium"
+            },
+            {
+                "hex_value": "#F1DBC3",
+                "colour_name": "Light"
+            }
+        ]
+    },
+    {
+        "id": 1003,
+        "type": "module",
+        "brand": "glossier",
+        "name": "Cloud Paint",
+        "price": "22.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://static-assets.glossier.com/production/spree/images/attachments/000/001/241/portrait_normal/CP_PDP_02.jpg?1488382023",
+        "product_link": "https://www.glossier.com/products/cloud-paint",
+        "website_link": "https://www.glossier.com",
+        "description": "With Cloud Paint, we set out to make blush the high point of your routine. The pillowy, gel-cream formula is designed to be the most user-friendly cheek color in existence. If you can finger paint, you can Cloud Paint—simply dab it onto cheeks wherever you please. It’s seamless, sheer, and buildable (i.e. it’s hard to accidentally apply too much). Inspired by gradient pink NYC sunsets, the shades are optimized to work across a wide range of skin tones for a healthy, flushed-from-within glow.",
+        "rating": null,
+        "category": "cream",
+        "product_type": "blush",
+        "tag_list": [],
+        "created_at": "2017-12-27T03:04:32.907Z",
+        "updated_at": "2017-12-27T03:05:09.354Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1003.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/003/original/open-uri20171227-4-13ivnwv?1514343870",
+        "product_colors": [
+            {
+                "hex_value": "#C78B7C",
+                "colour_name": "Dusk"
+            },
+            {
+                "hex_value": "#F3D1E0",
+                "colour_name": "Puff"
+            },
+            {
+                "hex_value": "#F1BB9E",
+                "colour_name": "Beam"
+            },
+            {
+                "hex_value": "#B65F79",
+                "colour_name": "Haze"
+            }
+        ]
+    },
+    {
+        "id": 1002,
+        "type": "module",
+        "brand": "glossier",
+        "name": "Wowder",
+        "price": "27.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://static-assets.glossier.com/production/spree/images/attachments/000/001/476/portrait_normal/carousel-1.jpg?1501534121",
+        "product_link": "https://www.glossier.com/products/wowder",
+        "website_link": "https://www.glossier.com",
+        "description": "It’s not powder, it’s Wowder—for non-dewy days. Wowder will: cut shine, blur the appearance of pores, set makeup, look like skin. Wowder won’t: leave a chalky film, cake into fine lines, flatten skin’s texture, or announce its presence in photographs (no camera flashback). In three sheer, glowy, adaptable shades...because no skin tone is HD-white. Pair with the angelically soft Wowder Brush for all-over and targeted application—perfect size, perfect shape, perfect density for the optimal matte-not-flat finish.",
+        "rating": null,
+        "category": "powder",
+        "product_type": "foundation",
+        "tag_list": [],
+        "created_at": "2017-12-27T02:50:48.250Z",
+        "updated_at": "2017-12-27T02:53:24.450Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1002.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/002/original/open-uri20171227-4-1ne7r73?1514343097",
+        "product_colors": [
+            {
+                "hex_value": "#EABC98",
+                "colour_name": "Light/Medium"
+            },
+            {
+                "hex_value": "#9B674E",
+                "colour_name": "Dark/Deep"
+            },
+            {
+                "hex_value": "#714831",
+                "colour_name": "Rich"
+            }
+        ]
+    },
+    {
+        "id": 1001,
+        "type": "module",
+        "brand": "glossier",
+        "name": "Haloscope",
+        "price": "27.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://static-assets.glossier.com/production/spree/images/attachments/000/001/109/portrait_normal/Haloscope_01-compressor.jpg?1498613775",
+        "product_link": "https://www.glossier.com/products/haloscope",
+        "website_link": "https://www.glossier.com",
+        "description": "Skincare + makeup = Haloscope, the galaxy’s first dew effect highlighter. It’s a dual-delivery formula: the outer halo is infused with genuine crystal extracts for all-day enlightenment, with a solid oil core of vitamin-rich moisturizers for a hydrated, dewy finish. Expect an otherworldly sheen that’s never dry, never glittery. Comes in…",
+        "rating": null,
+        "category": "highlighter",
+        "product_type": "foundation",
+        "tag_list": [],
+        "created_at": "2017-12-27T02:44:12.059Z",
+        "updated_at": "2017-12-27T02:58:27.019Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1001.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/001/original/open-uri20171227-4-1das33x?1514342770",
+        "product_colors": [
+            {
+                "hex_value": "#D19668",
+                "colour_name": "Topaz"
+            },
+            {
+                "hex_value": "#FBE9E1",
+                "colour_name": "Quartz"
+            },
+            {
+                "hex_value": "#F0EDEB",
+                "colour_name": "Moonstone"
+            }
+        ]
+    },
+    {
+        "id": 1000,
+        "type": "module",
+        "brand": "glossier",
+        "name": "Perfecting Skin Tint",
+        "price": "32.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://static-assets.glossier.com/production/spree/images/attachments/000/000/726/portrait_normal/PST_Carousel_02-compressor.jpg?1470088244",
+        "product_link": "https://www.glossier.com/products/perfecting-skin-tint",
+        "website_link": "https://www.glossier.com",
+        "description": "In the land between bare skin and makeup makeup exists the imperceptible wash of color that is our Perfecting Skin Tint. What does it do? Evens out discoloration and leaves your face looking toned, smooth, and dewy. The breathable, ultra thin formula auto-fits to skin, making application as simple as throwing on moisturizer. What won’t it do? Hide your freckles, spackle your pores, or erase any other evidence that you are, in fact, a real human being.",
+        "rating": null,
+        "category": null,
+        "product_type": "foundation",
+        "tag_list": [],
+        "created_at": "2017-12-27T02:34:21.781Z",
+        "updated_at": "2017-12-27T02:57:42.311Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/1000.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/001/000/original/open-uri20171227-4-14arcgf?1514342096",
+        "product_colors": [
+            {
+                "hex_value": "#F1DBC3",
+                "colour_name": "Light"
+            },
+            {
+                "hex_value": "#E5BE93",
+                "colour_name": "Medium"
+            },
+            {
+                "hex_value": "#4F3425",
+                "colour_name": "Rich"
+            },
+            {
+                "hex_value": "#BC8E5A",
+                "colour_name": "Dark"
+            },
+            {
+                "hex_value": "#96644A",
+                "colour_name": "Deep"
+            }
+        ]
+    },
+    {
+        "id": 999,
+        "type": "module",
+        "brand": "glossier",
+        "name": "Generation G",
+        "price": "20.0",
+        "price_sign": "$",
+        "currency": "USD",
+        "image_link": "https://static-assets.glossier.com/production/spree/images/attachments/000/001/239/portrait_normal/GenG2.jpg?1487709747",
+        "product_link": "https://www.glossier.com/products/generation-g",
+        "website_link": "https://www.glossier.com",
+        "description": "Generation G is a new kind of lip color that gives the look and finish of just-blotted lipstick, without the blot. We’ve created a short list of the six most important shades, with dialed-down pigment loads for a casual look: Zip, Leo, Crush, and Jam, along with the super subtle Cake and Like, which give some oomph to lighter lip tones. They’re lipsticks that adapt to you, not the other way around, so they'll appear a bit different on everyone as your natural lip color shows through. The effect? Diffused, matte goodness—just swipe it on.",
+        "rating": null,
+        "category": null,
+        "product_type": "lipstick",
+        "tag_list": [],
+        "created_at": "2017-12-27T02:21:55.363Z",
+        "updated_at": "2017-12-27T02:55:18.719Z",
+        "product_api_url": "https://makeup-api.herokuapp.com/api/v1/products/999.json",
+        "api_featured_image": "//s3.amazonaws.com/donovanbailey/products/api_featured_images/000/000/999/original/open-uri20171227-4-2ul0s6?1514341420",
+        "product_colors": [
+            {
+                "hex_value": "#F4E1D7",
+                "colour_name": "Cake"
+            },
+            {
+                "hex_value": "#E5C2CF",
+                "colour_name": "Like"
+            },
+            {
+                "hex_value": "#CB6382",
+                "colour_name": "Crush"
+            },
+            {
+                "hex_value": "#974A72",
+                "colour_name": "Jam"
+            },
+            {
+                "hex_value": "#A46C58",
+                "colour_name": "Leo"
+            },
+            {
+                "hex_value": "#DE6262",
+                "colour_name": "Zip"
+            }
+        ]
+    }
+]
